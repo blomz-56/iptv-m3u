@@ -140,8 +140,6 @@ https://tvpass.org/live/HBOEast/hd
 https://tvpass.org/live/HBO2East/hd
 #EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East HD" group-title="Live",HBO Comedy
 https://tvpass.org/live/HBOComedyEast/hd
-#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed HD" group-title="Live",HBO Family
-https://tvpass.org/live/HBOFamilyEast/hd
 #EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern HD" group-title="Live",HBO Signature
 https://tvpass.org/live/HBOSignatureEast/hd
 #EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East HD" group-title="Live",HBO Zone
