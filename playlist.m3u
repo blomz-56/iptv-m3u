@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
-#EXTINF:-1 tvg-id="405203" tvg-name="A&E" group-title="Live",A&E
+#EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed HD" ... 
 https://tvpass.org/live/AEEast/hd
 #EXTINF:-1 tvg-id="abc-kabc-los-angeles-ca" tvg-name="ABC (KABC) Los Angeles HD" group-title="Live",ABC Los Angeles
 https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
